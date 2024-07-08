@@ -1,3 +1,15 @@
+"""
+    Main file to run the game
+
+    Command:
+    python main.py --number_of_games 2 --result_path './game_results/test.json'
+
+    Args:
+    --number_of_games: int: how many number of games you want agents to play
+    --result_path: str: the path of the result file to be saved
+
+"""
+import argparse
 import json
 import os
 
@@ -5,7 +17,7 @@ from Guesser import Guesser
 from Host import Host
 
 
-def main():
+def game():
     open_ai_api_key = os.getenv("OPENAI_API_KEY")
 
     host = Host(
@@ -58,11 +70,32 @@ def main():
         "guesser_win_the_game": guesser_win_the_game,
         "conversations": conversations
     }
-    with open("conversation.json", "w") as file:
-        json.dump(result, file, indent=4)
+
+    return result
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--number_of_games", type=int,
+        help="how many number of games you want agents to play",
+        required=True
+    )
+    parser.add_argument(
+        "--result_path", type=str,
+        help="the path of the result file to be saved",
+        required=True
+    )
+
+    args = parser.parse_args()
 
 
-    main()
+    result_path = args.result_path
+    game_results = []
+
+    for _ in range(args.number_of_games):
+        result = game()
+        game_results.append(result)
+
+    with open(args.result_path, "w") as f:
+        json.dump(game_results, f)

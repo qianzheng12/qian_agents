@@ -1,0 +1,177 @@
+[
+  {
+    "topic": "Golden Retriever",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "question": "You can start to think of the topic",
+        "answer": "I have thought of the topic"
+      },
+      {
+        "question": "Is it a living thing?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it an animal?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a mammal?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a pet commonly found in households?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a dog?",
+        "answer": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "question": "Is it a specific breed of dog?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a small breed?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a breed that's commonly used for working or herding?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a German Shepherd?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a Labrador Retriever?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a Border Collie?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a Golden Retriever?",
+        "answer": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "\"Eiffel Tower\"",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "question": "You can start to think of the topic",
+        "answer": "I have thought of the topic"
+      },
+      {
+        "question": "Is it a living thing?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it something you can hold in your hand?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it man-made?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it used for transportation?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it used indoors?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it used for entertainment?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it used in sports?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Does it require electricity to function?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it associated with music?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it associated with visual arts?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it used for creating art?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a structure or a building?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a museum?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a theater?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it a monument or landmark?",
+        "answer": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "question": "Is it located in the United States?",
+        "answer": "no",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it located in Europe?",
+        "answer": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "question": "Is it in France?",
+        "answer": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "question": "Is it the Eiffel Tower?",
+        "answer": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  }
+]

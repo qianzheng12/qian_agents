@@ -1,0 +1,115 @@
+{
+    "topic": "Golden Retriever",
+    "guesser_win_the_game": false,
+    "conversations": [
+        {
+            "question": "You can start to think of the topic",
+            "answer": "I have thought of the topic"
+        },
+        {
+            "question": "Is it a living thing?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it an animal?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a pet commonly found in households?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a dog?",
+            "answer": "yes",
+            "correct_guess": "no"
+        },
+        {
+            "question": "Great! The topic you were thinking of is a dog.",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Oh, I see. Is it a cat?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a small mammal, like a hamster or a rabbit?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a ferret?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a guinea pig?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that is typically kept outside?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that can be held in your hand?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that is typically kept in a cage or tank?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that is larger than a breadbox?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that is typically kept indoors?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that is typically associated with a specific breed or type?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a mammal that is often used for work or service purposes?",
+            "answer": "yes",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a horse?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a monkey?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a pig?",
+            "answer": "no",
+            "correct_guess": "false"
+        },
+        {
+            "question": "Is it a ferret?",
+            "answer": "no",
+            "correct_guess": "false"
+        }
+    ]
+}
