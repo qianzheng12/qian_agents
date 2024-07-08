@@ -25,6 +25,7 @@ HOST_SYSTEM_PROMPT_TEMPLATE = (
 GENERATE_TOPIC_PROMPT_TEMPLATE = (
     "I want to play a game for guessing the topic within 20 questions. and your job is to provide me with the topic as an answer."
     "Please  provide me with the topic to play the game, think about all the living things or objects. There are different kinds of animal, pets, birds, fruits, vegetables, etc. "
+    "For example, Cats, Apples, Oranges, White house, Water bottle, car, chair, kangaroo, whales etc."
     "Remember only provide specific object or living things as the topic. Not the general topic like 'animal', 'fruit', 'vegetable'."
     "Please just response with the topic you suggest of without any extra information. "
 )

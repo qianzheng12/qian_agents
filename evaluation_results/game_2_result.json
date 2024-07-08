@@ -1,0 +1,176 @@
+[
+  {
+    "evaluation": {
+      "host_evaluation_result": {
+        "score": "3",
+        "comment": "The host did an excellent job. All the answers provided were correct and the host confirmed when the guesser guessed the answer correctly."
+      },
+      "guesser_evaluation_result": {
+        "score": "3",
+        "comment": "The guesser performed perfectly. They asked smart questions that progressively narrowed down the range of topics, and successfully guessed the topic correctly."
+      }
+    },
+    "conversation": {
+      "topic": "Penguin",
+      "guesser_win_the_game": true,
+      "conversations": [
+        {
+          "host": "You can start to think of the topic",
+          "guesser": "I have thought of the topic"
+        },
+        {
+          "host": "Is it a living thing?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it an animal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a mammal?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a bird?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a bird that can fly?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a penguin?",
+          "guesser": "yes",
+          "correct_guess": "true"
+        }
+      ]
+    }
+  },
+  {
+    "evaluation": {
+      "host_evaluation_result": {
+        "score": "3",
+        "comment": "The host did a great job. All the answers provided were correct and the host successfully identified the topic as a kangaroo."
+      },
+      "guesser_evaluation_result": {
+        "score": "3",
+        "comment": "The guesser performed excellently. They asked smart questions to narrow down the topic, and successfully guessed the topic correctly."
+      }
+    },
+    "conversation": {
+      "topic": "\"Kangaroo\"",
+      "guesser_win_the_game": true,
+      "conversations": [
+        {
+          "host": "You can start to think of the topic",
+          "guesser": "I have thought of the topic"
+        },
+        {
+          "host": "Is it a living thing?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it an animal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a mammal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a pet commonly found in households?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a wild animal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it live in the jungle?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it live in the ocean?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it live in cold regions?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it live in the desert?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it live in forested areas?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it live in grasslands or savannas?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a carnivore?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a herbivore?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it larger than a human?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it have hooves?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a rodent?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it have a long tail?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a primate?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a marsupial?",
+          "guesser": "yes",
+          "correct_guess": "no"
+        },
+        {
+          "host": "Is it a kangaroo?",
+          "guesser": "yes",
+          "correct_guess": "true"
+        }
+      ]
+    }
+  }
+]

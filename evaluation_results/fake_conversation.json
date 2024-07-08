@@ -1,0 +1,59 @@
+[
+  {
+    "evaluation": {
+      "host_evaluation_result": {
+        "score": "1",
+        "comment": "The host performed terribly. The host kept providing wrong answers to the guesser. The topic was the Eiffel Tower, which is not a living thing, let alone an animal or a breed of dog. The host also failed to correct the guesser when they provided incorrect answers."
+      },
+      "guesser_evaluation_result": {
+        "score": "1",
+        "comment": "The guesser did not perform well. They kept asking the same question about whether the topic was an animal, even though the topic was not a living thing. They also guessed the topic incorrectly multiple times before finally guessing correctly. They did not effectively narrow down the range of topics."
+      }
+    },
+    "conversation": {
+      "topic": "Eiffel Tower",
+      "guesser_win_the_game": true,
+      "conversations": [
+        {
+          "host": "You can start to think of the topic",
+          "guesser": "I have thought of the topic"
+        },
+        {
+          "host": "Is it a living thing?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it an animal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it an animal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it not an animal?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a specific breed of dog?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a small breed dog?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a Golden Retriever?",
+          "guesser": "yes",
+          "correct_guess": "true"
+        }
+      ]
+    }
+  }
+]

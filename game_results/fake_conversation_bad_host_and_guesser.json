@@ -1,0 +1,47 @@
+[
+  {
+    "topic": "Eiffel Tower",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it not an animal?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a specific breed of dog?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a small breed dog?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a Golden Retriever?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  }
+]

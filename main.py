@@ -43,7 +43,7 @@ def game():
     topic = host.generate_topic(
         override_model_config={
             "model": "gpt-4",
-            "temperature": 1,
+            "temperature": 1.5,
             "top_p": 1
         }
     )

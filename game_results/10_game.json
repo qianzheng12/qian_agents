@@ -1,0 +1,942 @@
+[
+  {
+    "topic": "Pineapple",
+    "guesser_win_the_game": false,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it something you can hold in your hand?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it electronic?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of metal?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used in daily life?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it related to food or cooking?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used for eating food?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of plastic?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of wood?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of glass?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of ceramic or porcelain?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of silverware?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of paper?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of bamboo?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of stone or marble?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of rubber?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of bone or ivory?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of straw or wicker?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of shell or pearl?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of gold or silver?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it made of crystal?",
+        "guesser": "no",
+        "correct_guess": "false"
+      }
+    ]
+  },
+  {
+    "topic": "Bald Eagle",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a bird?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a bird that can fly?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a bird commonly found in urban areas?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a bird of prey?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it larger than a chicken?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in North America?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a bald eagle?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "Blue Whale",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a pet commonly kept in homes?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a wild animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the forest?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the ocean?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of fish?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it larger than a human?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it have a blowhole?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of whale?",
+        "guesser": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "host": "Is it the largest animal on Earth, the Blue Whale?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "Bamboo Plant",
+    "guesser_win_the_game": false,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a plant?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of tree?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of flower?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it edible?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a fruit?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a vegetable?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of herb?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of grain?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of spice?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of fungus?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of nut?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of legume?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of leafy green?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of root vegetable?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of seaweed?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of tea plant?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of berry?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of cactus?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of vine?",
+        "guesser": "no",
+        "correct_guess": "false"
+      }
+    ]
+  },
+  {
+    "topic": "Elephant",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a pet commonly found in households?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a wild animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the jungle?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a carnivore?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a primate?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a large animal (bigger than a human)?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it have a trunk?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an elephant?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "Dolphin",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a pet commonly found in households?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a wild animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the jungle?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the ocean?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of fish?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal that lives in the ocean?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of whale?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a type of dolphin?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "Koala Bear",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a pet commonly found in households?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a wild animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the jungle?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the ocean?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in cold climates?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the desert?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in forested areas?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a carnivore?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a herbivore?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it larger than a human?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it have hooves?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it climb trees?",
+        "guesser": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "host": "Is it a primate?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a rodent?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a marsupial?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a koala?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "Eiffel Tower",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it something you can hold in your hand?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it man-made?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used for transportation?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used indoors?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used for entertainment?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it associated with sports?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it electronic?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used in a specific season or weather condition?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it associated with music?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it associated with visual arts?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it used for creating art?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a structure or building?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a museum?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a theater?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a gallery?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a monument or landmark?",
+        "guesser": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "host": "Is it located in the United States?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it located in Europe?",
+        "guesser": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "host": "Is it the Eiffel Tower?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  },
+  {
+    "topic": "Giraffe",
+    "guesser_win_the_game": false,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a pet commonly found in homes?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a wild animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the jungle?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in the ocean?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in cold regions?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in desert regions?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in forest regions?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it live in grassland regions?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a carnivore?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a herbivore?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it larger than a human?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it have horns?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a buffalo?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an antelope?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a rhinoceros?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a wildebeest?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an elephant?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a gazelle?",
+        "guesser": "no",
+        "correct_guess": "false"
+      }
+    ]
+  },
+  {
+    "topic": "Golden Retriever",
+    "guesser_win_the_game": true,
+    "conversations": [
+      {
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
+      },
+      {
+        "host": "Is it a living thing?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it an animal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a mammal?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a pet commonly found in households?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a dog?",
+        "guesser": "yes",
+        "correct_guess": "no"
+      },
+      {
+        "host": "Great! The topic you were thinking of is a dog.",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a cat?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it small enough to be held in a person's arms?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a horse?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it typically kept outside?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a rabbit?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Does it have a long tail?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a ferret?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a rodent?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a primate?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a marsupial?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a domestic pig?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a large breed of dog?",
+        "guesser": "yes",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a German Shepherd?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a Labrador Retriever?",
+        "guesser": "no",
+        "correct_guess": "false"
+      },
+      {
+        "host": "Is it a Golden Retriever?",
+        "guesser": "yes",
+        "correct_guess": "true"
+      }
+    ]
+  }
+]

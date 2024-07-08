@@ -1,0 +1,201 @@
+[
+  {
+    "evaluation": {
+      "host_evaluation_result": {
+        "score": "3",
+        "comment": "The host did an excellent job. They asked relevant questions and were able to correctly identify the topic. They also confirmed the correct guess with the guesser."
+      },
+      "guesser_evaluation_result": {
+        "score": "3",
+        "comment": "The guesser performed perfectly. They asked smart questions to narrow down the topic and successfully guessed the topic correctly."
+      }
+    },
+    "conversation": {
+      "topic": "Golden Retriever",
+      "guesser_win_the_game": true,
+      "conversations": [
+        {
+          "host": "You can start to think of the topic",
+          "guesser": "I have thought of the topic"
+        },
+        {
+          "host": "Is it a living thing?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it an animal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a mammal?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a pet commonly found in households?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a dog?",
+          "guesser": "yes",
+          "correct_guess": "no"
+        },
+        {
+          "host": "Is it a specific breed of dog?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a small breed?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a breed that's commonly used for working or herding?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a German Shepherd?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a Labrador Retriever?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a Border Collie?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a Golden Retriever?",
+          "guesser": "yes",
+          "correct_guess": "true"
+        }
+      ]
+    }
+  },
+  {
+    "evaluation": {
+      "host_evaluation_result": {
+        "score": "3",
+        "comment": "The host did a great job in guiding the guesser towards the correct answer. All the questions were relevant and helped narrow down the possibilities. The host also confirmed when the guesser got the correct answer."
+      },
+      "guesser_evaluation_result": {
+        "score": "3",
+        "comment": "The guesser performed excellently. They asked smart questions to narrow down the topic, and successfully guessed the topic correctly within the 20 questions limit."
+      }
+    },
+    "conversation": {
+      "topic": "\"Eiffel Tower\"",
+      "guesser_win_the_game": true,
+      "conversations": [
+        {
+          "host": "You can start to think of the topic",
+          "guesser": "I have thought of the topic"
+        },
+        {
+          "host": "Is it a living thing?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it something you can hold in your hand?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it man-made?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it used for transportation?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it used indoors?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it used for entertainment?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it used in sports?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Does it require electricity to function?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it associated with music?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it associated with visual arts?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it used for creating art?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a structure or a building?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a museum?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a theater?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it a monument or landmark?",
+          "guesser": "yes",
+          "correct_guess": "no"
+        },
+        {
+          "host": "Is it located in the United States?",
+          "guesser": "no",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it located in Europe?",
+          "guesser": "yes",
+          "correct_guess": "false"
+        },
+        {
+          "host": "Is it in France?",
+          "guesser": "yes",
+          "correct_guess": "no"
+        },
+        {
+          "host": "Is it the Eiffel Tower?",
+          "guesser": "yes",
+          "correct_guess": "true"
+        }
+      ]
+    }
+  }
+]
