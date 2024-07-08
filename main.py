@@ -49,8 +49,8 @@ def game():
     )
     answer = "I have thought of the topic"
     conversations.append({
-        "question": "You can start to think of the topic",
-        "answer": answer,
+        "host": "You can start to think of the topic",
+        "guesser": answer,
     })
     count = 0
     while correct_guess != 'true':
@@ -60,8 +60,8 @@ def game():
         user_guess = guesser.guess(answer)
         answer, correct_guess = host.answer(user_guess)
         conversations.append({
-            "question": user_guess,
-            "answer": answer,
+            "host": user_guess,
+            "guesser": answer,
             "correct_guess": correct_guess,
         })
         count += 1
@@ -88,7 +88,6 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-
 
     result_path = args.result_path
     game_results = []

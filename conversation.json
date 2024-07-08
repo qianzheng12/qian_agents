@@ -3,112 +3,112 @@
     "guesser_win_the_game": false,
     "conversations": [
         {
-            "question": "You can start to think of the topic",
-            "answer": "I have thought of the topic"
+            "host": "You can start to think of the topic",
+            "guesser": "I have thought of the topic"
         },
         {
-            "question": "Is it a living thing?",
-            "answer": "yes",
+            "host": "Is it a living thing?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it an animal?",
-            "answer": "yes",
+            "host": "Is it an animal?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal?",
-            "answer": "yes",
+            "host": "Is it a mammal?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a pet commonly found in households?",
-            "answer": "yes",
+            "host": "Is it a pet commonly found in households?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a dog?",
-            "answer": "yes",
+            "host": "Is it a dog?",
+            "guesser": "yes",
             "correct_guess": "no"
         },
         {
-            "question": "Great! The topic you were thinking of is a dog.",
-            "answer": "no",
+            "host": "Great! The topic you were thinking of is a dog.",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Oh, I see. Is it a cat?",
-            "answer": "no",
+            "host": "Oh, I see. Is it a cat?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a small mammal, like a hamster or a rabbit?",
-            "answer": "no",
+            "host": "Is it a small mammal, like a hamster or a rabbit?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a ferret?",
-            "answer": "no",
+            "host": "Is it a ferret?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a guinea pig?",
-            "answer": "no",
+            "host": "Is it a guinea pig?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that is typically kept outside?",
-            "answer": "no",
+            "host": "Is it a mammal that is typically kept outside?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that can be held in your hand?",
-            "answer": "no",
+            "host": "Is it a mammal that can be held in your hand?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that is typically kept in a cage or tank?",
-            "answer": "no",
+            "host": "Is it a mammal that is typically kept in a cage or tank?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that is larger than a breadbox?",
-            "answer": "yes",
+            "host": "Is it a mammal that is larger than a breadbox?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that is typically kept indoors?",
-            "answer": "yes",
+            "host": "Is it a mammal that is typically kept indoors?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that is typically associated with a specific breed or type?",
-            "answer": "yes",
+            "host": "Is it a mammal that is typically associated with a specific breed or type?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a mammal that is often used for work or service purposes?",
-            "answer": "yes",
+            "host": "Is it a mammal that is often used for work or service purposes?",
+            "guesser": "yes",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a horse?",
-            "answer": "no",
+            "host": "Is it a horse?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a monkey?",
-            "answer": "no",
+            "host": "Is it a monkey?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a pig?",
-            "answer": "no",
+            "host": "Is it a pig?",
+            "guesser": "no",
             "correct_guess": "false"
         },
         {
-            "question": "Is it a ferret?",
-            "answer": "no",
+            "host": "Is it a ferret?",
+            "guesser": "no",
             "correct_guess": "false"
         }
     ]

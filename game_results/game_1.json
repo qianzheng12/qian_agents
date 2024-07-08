@@ -4,67 +4,67 @@
     "guesser_win_the_game": true,
     "conversations": [
       {
-        "question": "You can start to think of the topic",
-        "answer": "I have thought of the topic"
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
       },
       {
-        "question": "Is it a living thing?",
-        "answer": "yes",
+        "host": "Is it a living thing?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it an animal?",
-        "answer": "yes",
+        "host": "Is it an animal?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a mammal?",
-        "answer": "yes",
+        "host": "Is it a mammal?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a pet commonly found in households?",
-        "answer": "yes",
+        "host": "Is it a pet commonly found in households?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a dog?",
-        "answer": "yes",
+        "host": "Is it a dog?",
+        "guesser": "yes",
         "correct_guess": "no"
       },
       {
-        "question": "Is it a specific breed of dog?",
-        "answer": "yes",
+        "host": "Is it a specific breed of dog?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a small breed?",
-        "answer": "no",
+        "host": "Is it a small breed?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a breed that's commonly used for working or herding?",
-        "answer": "yes",
+        "host": "Is it a breed that's commonly used for working or herding?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a German Shepherd?",
-        "answer": "no",
+        "host": "Is it a German Shepherd?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a Labrador Retriever?",
-        "answer": "no",
+        "host": "Is it a Labrador Retriever?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a Border Collie?",
-        "answer": "no",
+        "host": "Is it a Border Collie?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a Golden Retriever?",
-        "answer": "yes",
+        "host": "Is it a Golden Retriever?",
+        "guesser": "yes",
         "correct_guess": "true"
       }
     ]
@@ -74,102 +74,102 @@
     "guesser_win_the_game": true,
     "conversations": [
       {
-        "question": "You can start to think of the topic",
-        "answer": "I have thought of the topic"
+        "host": "You can start to think of the topic",
+        "guesser": "I have thought of the topic"
       },
       {
-        "question": "Is it a living thing?",
-        "answer": "no",
+        "host": "Is it a living thing?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it something you can hold in your hand?",
-        "answer": "no",
+        "host": "Is it something you can hold in your hand?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it man-made?",
-        "answer": "yes",
+        "host": "Is it man-made?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it used for transportation?",
-        "answer": "no",
+        "host": "Is it used for transportation?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it used indoors?",
-        "answer": "no",
+        "host": "Is it used indoors?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it used for entertainment?",
-        "answer": "yes",
+        "host": "Is it used for entertainment?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it used in sports?",
-        "answer": "no",
+        "host": "Is it used in sports?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Does it require electricity to function?",
-        "answer": "no",
+        "host": "Does it require electricity to function?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it associated with music?",
-        "answer": "no",
+        "host": "Is it associated with music?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it associated with visual arts?",
-        "answer": "yes",
+        "host": "Is it associated with visual arts?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it used for creating art?",
-        "answer": "no",
+        "host": "Is it used for creating art?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a structure or a building?",
-        "answer": "yes",
+        "host": "Is it a structure or a building?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a museum?",
-        "answer": "no",
+        "host": "Is it a museum?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a theater?",
-        "answer": "no",
+        "host": "Is it a theater?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it a monument or landmark?",
-        "answer": "yes",
+        "host": "Is it a monument or landmark?",
+        "guesser": "yes",
         "correct_guess": "no"
       },
       {
-        "question": "Is it located in the United States?",
-        "answer": "no",
+        "host": "Is it located in the United States?",
+        "guesser": "no",
         "correct_guess": "false"
       },
       {
-        "question": "Is it located in Europe?",
-        "answer": "yes",
+        "host": "Is it located in Europe?",
+        "guesser": "yes",
         "correct_guess": "false"
       },
       {
-        "question": "Is it in France?",
-        "answer": "yes",
+        "host": "Is it in France?",
+        "guesser": "yes",
         "correct_guess": "no"
       },
       {
-        "question": "Is it the Eiffel Tower?",
-        "answer": "yes",
+        "host": "Is it the Eiffel Tower?",
+        "guesser": "yes",
         "correct_guess": "true"
       }
     ]
