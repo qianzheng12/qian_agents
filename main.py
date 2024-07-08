@@ -64,7 +64,5 @@ def main():
 
 if __name__ == "__main__":
 
-    # Read the number of game to run from args
-    args = sys.argv
 
     main()
