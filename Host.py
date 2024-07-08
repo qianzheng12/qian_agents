@@ -10,10 +10,6 @@ HOST_SYSTEM_PROMPT_TEMPLATE = (
     "I will ask you yes/no questions to guess the topic. "
     "You should answer my questions with 'yes', 'no' \n\n"
     
-    "Firstly, you should think of a topic (please be free to think about any living things or object) when I tell you to start to think of the topic. and response with the following format:"
-    "{\n"
-    "  'topic': 'topic you are thinking of',\n"
-    "} \n\n"
     "After the first turn, you should start to only provide response in a json format with the following structure: \n"
     "{\n"
     "  'answer': 'answer to the question I asked (yes or no)\n"
@@ -74,7 +70,6 @@ class Host:
         )
 
         topic = response.choices[0].message.content
-        print('topic: ', topic)
         if topic:
             self.topic = topic
             return topic

@@ -1,12 +1,12 @@
 """
-This script is used to evaluate the game results using the OpenAI API.
+    This script is used to evaluate the game results using the OpenAI API.
 
-Usage:
-python evaluate.py --game_result_path ./game_results/game_1.json --evaluation_result ./evaluation_results/game_1_results.json
+    Usage:
+    python evaluate.py --game_result_path ./game_results/game_1.json --evaluation_result ./evaluation_results/game_1_results.json
 
-Args:
---game_result_path: str: path to the game result file
---evaluation_result_path: str: path to the evaluation results file you want to store
+    Args:
+    --game_result_path: str: path to the game result file
+    --evaluation_result_path: str: path to the evaluation results file you want to store
 
 """
 import argparse

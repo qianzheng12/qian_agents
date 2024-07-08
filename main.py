@@ -1,7 +1,7 @@
 """
     Main file to run the game
 
-    Command:
+    Usage:
     python main.py --number_of_games 2 --result_path './game_results/test.json'
 
     Args:
